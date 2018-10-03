@@ -1,0 +1,164 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 30px;
+    font-family: Calibri, Verdana, sans-serif;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+
+  .top-left {
+    display: inline-block;
+  }
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  header {
+    color: White;
+    background-color: rgb(32, 101, 136);
+    background-image: url("images/city-scape.svg");
+    font-family: Calibri, Verdana, sans-serif;
+  }
+
+
+.search-bar p {
+    display: inline-block;
+}
+
+.search-bar img {
+    display: inline-block;
+    height: 50px;
+    width: auto;
+    margin-top: 20px;
+}
+
+.square {
+    width: 900px;
+    height: 25px;
+    background-color:  rgb(31, 82, 111);
+    display: inline-block;
+}
+
+
+  .sign-up {
+    margin-left: 240px;
+    width: 500px;
+    height: 250px;
+    color: white;
+    text-align: left;
+  }
+
+  .sign-up p {
+      padding: 0px;
+      margin-bottom: 20px;
+  }
+
+  .button-sign-up {
+    background-color: rgb(240, 146, 51);
+    border: none;
+    border-radius: 12px;
+    padding: 8px;
+  }
+
+  .button-sign-up a {
+    text-decoration: none;
+    color: white;
+  }
+
+#npm-orgs {
+    background: rgb(39, 53, 71);
+    padding: 50px;
+    color: white;
+    font-family: Calibri, Verdana, sans-serif;
+}
+  .collaboration {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+  .collaboration img {
+    width: 300px;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .collaboration-text {
+    display: inline-block;
+    float: right;
+  }
+
+  .collaboration li {
+      padding: 5px;
+  }
+
+  .button-orgs {
+    background-color: rgb(203, 56, 55);
+    border: none;
+    border-radius: 12px;
+    padding: 8px;
+    color: white;
+  }
+
+  #about {
+    background-image: url("images/forklift.svg");
+    background-size: cover;
+    position: relative;
+    height: 300px;
+  }
+
+  .about-text {
+      color: white;
+      margin-left: 180px;
+      width: 500px;
+      font-family: Calibri, Verdana, sans-serif;
+      padding: 50px;
+      position: absolute;
+
+  }
+
+  .about-text h2, p, a {
+      margin: 0px;
+      padding: 20px;
+  }
+
+  .blocks-text h2 {
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 0px;
+      font-family: Calibri, Verdana, sans-serif;
+  }
+
+  .blocks-text p {
+    text-align: center;
+    font-family: Calibri, Verdana, sans-serif;
+}
+
+.building-blocks {
+    text-align: center;
+    font-family: Calibri, Verdana, sans-serif;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.block-1 {
+    float: left;
+    width: 33%;
+}
+
+.block-2 {
+    float: left;
+    width: 33%;
+}
